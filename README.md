@@ -1,2 +1,2 @@
 # orkitec.com
-redirect to www.orkitec.com
+redirect to https://www.orkitec.com
